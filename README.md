@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roza</h1>
 <h3 align="center">I'm now focus on C/C++/Python technologies 🚀</h3>
-<img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/cd/fd/a4/cdfda49dd7071ec1623e87f55943ab3e.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/cd/fd/a4/cdfda49dd7071ec1623e87f55943ab3e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozakerobyan&label=Profile%20views&color=0e75b6&style=flat" alt="rozakerobyan" /> </p>
 
