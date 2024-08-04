@@ -8,7 +8,7 @@
 
 - 📫How to reach me **rozakerobyan@gmail.com**
 
-- ⚡ Fun fact **I'm brave😅**
+- ⚡ Fun fact **I'm brave 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
