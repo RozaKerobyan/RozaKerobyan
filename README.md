@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roza</h1>
-<img align="right" src="https://badge.mediaplus.ma/Binary/rkerobya?1337Badge=off&UM6P=off"><br>
-
+<img align="right" src="https://badge.mediaplus.ma/binary/rkerobya?1337Badge=off&UM6P=off"> <br>
 
 - 🌱 I’m currently learning **Python & C++**
 
