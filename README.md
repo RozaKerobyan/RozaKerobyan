@@ -11,6 +11,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,django,flask,mysql,c,cpp,bash,github,git,github,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,py,django,flask,docker,raspberrypi,mysql,aws,c,cpp,qt,bash,github,vim,visualstudio,vscode." />
   </a>
 </p>   
